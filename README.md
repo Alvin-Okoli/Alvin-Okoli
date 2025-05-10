@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi there, I'm [Alvin Okoli](https://github.com/Alvin-Okoli)
 
-<!--
-**Alvin-Okoli/Alvin-Okoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub space! I got into tech to pursue a career — but now, I'm hooked on building cool stuff.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🔭 Currently learning: **Web3**
+- 👯 Open to: **Collaborating on open source and freelance projects**
+- 💬 Ask me about: **JavaScript 😁**
+- ⚡ Fun fact: Love to work out 💪
+
+---
+
+### 📫 Reach me at: 
+
+<!-- Portfolio: [your-portfolio.com](https://your-portfolio.com)-->
+- LinkedIn: [Alvin OKoli](www.linkedin.com/in/alvin-okoli-b66a7033a)
+- Email: **alvinokoli@gmail.com**
+- X: (Alvin Okoli)[https://x.com/AlvinOkoli]
+
+---
+
+## 🛠️ Tech Stack
+
+### 👁️ Frontend
+- **React**
+- **Tailwind CSS**
+
+### 💻 Backend
+- **Node.js**
+- **Express.js**
+- **MongoDB**
+
