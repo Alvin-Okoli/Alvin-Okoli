@@ -17,9 +17,9 @@ Welcome to my GitHub space! I got into tech to pursue a career — but now, I'm 
 ### 📫 Reach me at: 
 
 <!-- Portfolio: [your-portfolio.com](https://your-portfolio.com)-->
-- LinkedIn: [Alvin OKoli](www.linkedin.com/in/alvin-okoli-b66a7033a)
+- LinkedIn: [Alvin-OKoli](www.linkedin.com/in/alvin-okoli-b66a7033a)
 - Email: **alvinokoli@gmail.com**
-- X: [Alvin Okoli](https://x.com/AlvinOkoli)
+- X: [Alvin-Okoli](https://x.com/AlvinOkoli)
 
 ---
 
