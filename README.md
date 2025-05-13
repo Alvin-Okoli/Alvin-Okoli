@@ -7,7 +7,7 @@ Welcome to my GitHub space! I got into tech to pursue a career — but now, I'm 
 
 ### 🧠 About Me
 
-- 🔭 Currently learning: **Web3**
+- 🔭 Currently learning: **Phaser 3** and **Solidity**
 - 👯 Open to: **Collaborating on open source and freelance projects**
 - 💬 Ask me about: **JavaScript 😁**
 - ⚡ Fun fact: Love to work out 💪
