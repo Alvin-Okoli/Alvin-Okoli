@@ -29,6 +29,7 @@ Welcome to my GitHub space! I got into tech to pursue a career — but now, I'm 
 - **React**
 - **Tailwind CSS**
 - **Phaser**
+- **Typescript**
 
 ### 💻 Backend
 - **Node.js**
