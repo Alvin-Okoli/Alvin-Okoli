@@ -7,7 +7,7 @@ Welcome to my GitHub space! I got into tech to pursue a career — but now, I'm 
 
 ### 🧠 About Me
 
-- 🔭 Currently learning: **Phaser 3** and **Solidity**
+- 🔭 Currently learning: **Ether.js** and **Solidity**
 - 👯 Open to: **Collaborating on open source and freelance projects**
 - 💬 Ask me about: **JavaScript 😁**
 - ⚡ Fun fact: Love to work out 💪
@@ -16,7 +16,7 @@ Welcome to my GitHub space! I got into tech to pursue a career — but now, I'm 
 
 ### 📫 Reach me at: 
 
-<!-- Portfolio: [your-portfolio.com](https://your-portfolio.com)-->
+- Portfolio website: [Alvin-okoli.dev](https://portfolio-mu-taupe-22.vercel.app/)
 - LinkedIn: [Alvin-OKoli](www.linkedin.com/in/alvin-okoli-b66a7033a)
 - Email: **alvinokoli@gmail.com**
 - X: [Alvin-Okoli](https://x.com/AlvinOkoli)
@@ -29,10 +29,17 @@ Welcome to my GitHub space! I got into tech to pursue a career — but now, I'm 
 - **React**
 - **Tailwind CSS**
 - **Phaser**
+- **Nextjs**
 - **Typescript**
 
 ### 💻 Backend
 - **Node.js**
 - **Express.js**
 - **MongoDB**
+
+- ### ⚙️ Tools
+- **Docker**
+- **Git and Github**
+- **Postman**
+- **JWT**
 
