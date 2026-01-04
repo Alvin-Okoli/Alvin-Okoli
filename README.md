@@ -7,7 +7,7 @@ Welcome to my GitHub space! I got into tech to pursue a career — but now, I'm 
 
 ### 🧠 About Me
 
-- 🔭 Currently learning: **Ether.js** and **Solidity**
+- 🔭 Currently learning: **Nginx** and **Reddis**
 - 👯 Open to: **Collaborating on open source and freelance projects**
 - 💬 Ask me about: **JavaScript 😁**
 - ⚡ Fun fact: Love to work out 💪
@@ -35,11 +35,15 @@ Welcome to my GitHub space! I got into tech to pursue a career — but now, I'm 
 ### 💻 Backend
 - **Node.js**
 - **Express.js**
+
+### 🛢️ Database
 - **MongoDB**
+- **MYSQL**
 
 ### ⚙️ Tools
 - **Docker**
 - **Git and Github**
 - **Postman**
 - **JWT**
+- **GRAPHQL**
 
