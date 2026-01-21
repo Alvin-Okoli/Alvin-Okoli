@@ -35,6 +35,7 @@ Welcome to my GitHub space! I got into tech to pursue a career — but now, I'm 
 ### 💻 Backend
 - **Node.js**
 - **Express.js**
+- **Python**
 
 ### 🛢️ Database
 - **MongoDB**
