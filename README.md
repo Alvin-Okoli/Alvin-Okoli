@@ -7,9 +7,8 @@ Welcome to my GitHub space! I got into tech to pursue a career — but now, I'm 
 
 ### 🧠 About Me
 
-- 🔭 Currently learning: **Nginx** and **Reddis**
 - 👯 Open to: **Collaborating on open source and freelance projects**
-- 💬 Ask me about: **JavaScript 😁**
+- 💬 Ask me about: **JavaScript & Python 😁**
 - ⚡ Fun fact: Love to work out 💪
 
 ---
