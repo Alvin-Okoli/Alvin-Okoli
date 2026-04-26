@@ -24,21 +24,25 @@ Welcome to my GitHub space! I got into tech to pursue a career — but now, I'm 
 
 ## 🛠️ Tech Stack
 
+### 👁️ Languages
+- **Typescript**
+- **Javascript**
+- **Python**
+
 ### 👁️ Frontend
 - **React**
 - **Tailwind CSS**
 - **Phaser**
 - **Nextjs**
-- **Typescript**
 
 ### 💻 Backend
-- **Node.js**
-- **Express.js**
-- **Python**
+- **Node.js** **Express.js**
 
 ### 🛢️ Database
 - **MongoDB**
 - **MYSQL**
+- **PostgreSQL**
+- **Redis**
 
 ### ⚙️ Tools
 - **Docker**
