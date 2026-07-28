@@ -50,4 +50,7 @@ Welcome to my GitHub space! I got into tech to pursue a career — but now, I'm 
 - **Postman**
 - **JWT**
 - **GRAPHQL**
+- **Kafka**
+- **Nginx**
+- **AWS**
 
